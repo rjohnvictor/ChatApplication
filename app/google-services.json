@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "714704064034",
-    "firebase_url": "https://chat-app-c5fa8.firebaseio.com",
-    "project_id": "chat-app-c5fa8",
+    "project_number": "<PROJECT_NUMBER>",
+    "firebase_url": "<APP_URL>",
+    "project_id": "<PROJECT_ID>",
     "storage_bucket": "chat-app-c5fa8.appspot.com"
   },
   "client": [
@@ -15,13 +15,13 @@
       },
       "oauth_client": [
         {
-          "client_id": "714704064034-n88fk8v1113flv4tc6ld6sp80udmctdm.apps.googleusercontent.com",
+          "client_id": "<GOOGLE_AUTH_CREDS>",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChsEEFditd7KEc-tBwBkHrhYUYsW4y2ac"
+          "current_key": "<API_KEY>"
         }
       ],
       "services": {
@@ -37,23 +37,6 @@
         }
       }
     },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:714704064034:android:9069a5da8faadfdd",
-        "android_client_info": {
-          "package_name": "com.example.victor_pc.chatapplication"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "714704064034-n88fk8v1113flv4tc6ld6sp80udmctdm.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChsEEFditd7KEc-tBwBkHrhYUYsW4y2ac"
-        }
       ],
       "services": {
         "analytics_service": {
